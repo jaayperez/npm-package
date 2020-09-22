@@ -1,0 +1,27 @@
+{
+  "name": "@jaayperez/npm-package",
+  "version": "1.0.0",
+  "description": "My npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaayperez/npm-package.git"
+  },
+  "keywords": [
+    "time",
+    "date",
+    "node",
+    "npm",
+    "module",
+    "package"
+  ],
+  "author": "Justin Perez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaayperez/npm-package/issues"
+  },
+  "homepage": "https://github.com/jaayperez/npm-package#readme"
+}
