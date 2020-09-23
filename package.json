@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/jaayperez/npm-package/issues"
   },
-  "homepage": "https://github.com/jaayperez/npm-package#readme"
+  "homepage": "https://github.com/jaayperez/npm-package#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.0"
+  }
 }
