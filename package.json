@@ -28,5 +28,8 @@
     "chalk": "^4.1.0",
     "clear": "^0.1.0",
     "figlet": "^1.5.0"
+  },
+  "bin": {
+    "npm-package": "./index.js"
   }
 }
